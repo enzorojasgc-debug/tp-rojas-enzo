@@ -53,3 +53,11 @@ tp-rojas-enzo/
 2. Abrir `index.html` en el navegador (o con la extensión Live Server de VS Code).
 
 No necesita instalar dependencias ni servidor propio: la aplicación consume la API pública directamente desde el navegador (se requiere conexión a internet).
+
+## Despliegue
+El sitio está publicado en dos plataformas, ambas conectadas a la rama `main` de este repositorio:
+
+- **GitHub Pages:** publica la rama `main` desde la raíz (`/ (root)`) con la opción *Deploy from a branch*.
+- **Vercel:** el repositorio se importó desde GitHub con el preset *Other*, sin comando de build ni directorio de salida, porque es un sitio estático.
+
+Cada `git push` a `main` dispara un nuevo despliegue automático en ambas plataformas (despliegue continuo). Para comprobarlo, se cambia el número de versión del pie (`<span id="version">` en `index.html`) y se verifica que las dos URL muestren la versión nueva sin subir archivos a mano.
