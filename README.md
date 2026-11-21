@@ -7,7 +7,7 @@ Aplicación web de una sola página que permite buscar las ubicaciones de la ser
 
 ## Sitios publicados
 - GitHub Pages: https://enzorojasgc-debug.github.io/tp-rojas-enzo/
-- Vercel: (pendiente de publicación)
+- Vercel: https://tp-rojas-enzo.vercel.app/
 
 ## Captura
 ![Captura de la aplicación buscando "earth" con el tipo "Planet"](img/captura.png)
