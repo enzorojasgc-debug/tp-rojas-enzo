@@ -1,10 +1,11 @@
 # Buscador de Ubicaciones · Rick and Morty
 
-**Autor:** Enzo Rojas
-**Materia:** Fundamentos de Desarrollo Web — Trabajo Práctico
-**Variante:** B · Ubicaciones (endpoint `https://rickandmortyapi.com/api/location`)
+- **Autor:** Enzo Rojas
+- **Materia:** Fundamentos de Desarrollo Web — Trabajo Práctico
+- **Variante:** B · Ubicaciones (endpoint `https://rickandmortyapi.com/api/location`)
 
-🔗 **Página publicada:** https://TU-USUARIO.github.io/tp-rojas-enzo/
+🔗 **Página publicada:** https://enzorojasgc-debug.github.io/tp-rojas-enzo/  
+📁 **Repositorio:** https://github.com/enzorojasgc-debug/tp-rojas-enzo
 
 ## Descripción
 
